@@ -16,7 +16,7 @@ function App() {
               <input type="email" className="form-control" aria-describedby="emailHelp" />
           </div>
            <div className="form-group">
-               <label htmlFor="message">Mensagem (Opcional)</label>
+               <label htmlFor="message">Mensagem</label>
                <textarea className="form-control" rows="5"></textarea>
            </div>
           <button className="btn btn-success">Enviar</button>
